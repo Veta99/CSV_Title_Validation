@@ -1,0 +1,150 @@
+
+Test Case ID: 		TC-001.01
+URL: 			http://www.learn2test.net
+Title Expected: 	learn2test.net
+Title Actual: 		learn2test.net
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.02
+URL: 			http://www.yahoo.com
+Title Expected: 	Yahoo
+Title Actual: 		Yahoo
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.03
+URL: 			http://www.citi.com
+Title Expected: 	Banking,Credit Cards, Lending & Investing
+Title Actual: 		Citibank Online
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.04
+URL: 			http://www.google.com
+Title Expected: 	Google
+Title Actual: 		Google
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.05
+URL: 			http://www.gap.com
+Title Expected: 	Shop Clothes For Women, Men, Baby, and Kids | Free Ship on 0 | Gap
+Title Actual: 		Shop Clothes For Women, Men, Baby, and Kids | Free Ship on $50 | Gap
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.06
+URL: 			http://www.digikey.com
+Title Expected: 	DigiKey Electronics - Electronic Components Distributor
+Title Actual: 		DigiKey Electronics - Electronic Components Distributor
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.07
+URL: 			http://www.mouser.com
+Title Expected: 	Mouser Electronics - Electronic Components Distributor
+Title Actual: 		Mouser Electronics - Electronic Components Distributor
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.08
+URL: 			http://www.jcrew.com
+Title Expected: 	J.Crew: Clothes, Shoes & Accessories for Women, Men & Kids
+Title Actual: 		J.Crew: Clothes, Shoes & Accessories for Women, Men & Kids
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.09
+URL: 			http://www.khanacademy.org
+Title Expected: 	Khan Academy
+Title Actual: 		Khan Academy
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.10
+URL: 			http://www.redwoodcu.org
+Title Expected: 	Redwood Credit Union | Bay Area Credit Union | Santa Rosa CA
+Title Actual: 		Redwood Credit Union | Bay Area Credit Union | Santa Rosa CA
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.11
+URL: 			http://mail.ru
+Title Expected: 	Mail.ru:РїРѕС‡С‚Р°, РїРѕРёСЃРє РІ РёРЅС‚РµСЂРЅРµС‚Рµ, РЅРѕРІРѕСЃС‚Рё, РёРіСЂС‹
+Title Actual: 		Mail.Ru: почта, поиск в интернете, новости, игры
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.12
+URL: 			http://www.bbc.com
+Title Expected: 	BBC - Homepage
+Title Actual: 		BBC - Homepage
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.13
+URL: 			http://www.facebook.com
+Title Expected: 	Facebook - Log In or Sign Up
+Title Actual: 		Facebook - Log In or Sign Up
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.14
+URL: 			http://www.foxnews.com
+Title Expected: 	Fox News - Breaking News Up
+Title Actual: 		Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.15
+URL: 			http://www.lib.ru
+Title Expected: 	Lib.Ru: Р‘РёР±Р»РёРѕС‚РµРєР° РњР°РєСЃРёРјР° РњРѕС€РєРѕРІР°
+Title Actual: 		Lib.Ru: Библиотека Максима Мошкова
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.16
+URL: 			http://www.transmag.com
+Title Expected: 	Transmag BLDC
+Title Actual: 		Transmag BLDC
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.17
+URL: 			http://www.apple.com
+Title Expected: 	Apple
+Title Actual: 		Apple
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.18
+URL: 			http://github.com
+Title Expected: 	GitHub
+Title Actual: 		GitHub · Build software better, together.
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.19
+URL: 			http://www.pacswim.org
+Title Expected: 	Pacific Swimming |USA Swimming Association
+Title Actual: 		Pacific Swimming | USA Swimming Association
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.20
+URL: 			http://www.usaswimming.org
+Title Expected: 	USA Swimming - Home
+Title Actual: 		USA Swimming - Home
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.21
+URL: 			http://www.learn2learn.ru
+Title Expected: 	learn2learn
+Title Actual: 		learn2learn | Физика, Лирика, Экономика
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.22
+URL: 			http://www.cvs.com
+Title Expected: 	CVS pharmacy - Online Pharmacy
+Title Actual: 		CVS pharmacy - Online Pharmacy - Shop for Wellness and Beauty Products
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.23
+URL: 			http://www.bing.com
+Title Expected: 	Bing
+Title Actual: 		Bing
+Test Case Result: 	PASSED
+
+Test Case ID: 		TC-001.24
+URL: 			https://www.yandex.ru
+Title Expected: 	РЇРЅРґРµРєСЃ
+Title Actual: 		Яндекс
+Test Case Result: 	FAILED
+
+Test Case ID: 		TC-001.25
+URL: 			https://www.wikipedia.org
+Title Expected: 	Wikipedia
+Title Actual: 		Wikipedia
+Test Case Result: 	PASSED
